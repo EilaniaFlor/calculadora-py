@@ -1,5 +1,3 @@
-## 🚀 Como Executar o Script
-
 Para rodar este script em ambientes Unix (Linux ou macOS), siga os passos abaixo no terminal:
 
 ### 1. Dar permissão de execução
